@@ -1,5 +1,9 @@
 .indexMain{
     .feature{
+        h1{
+            color: white;
+            font-size: 50%;
+        }
         h2{
             &::before,&::after{
                 content: '';
