@@ -120,7 +120,7 @@ a {
 }
 
 h1 a {
-  background: url(https://hexschool.github.io/Rwd_sketch_export/assets/logo_l@svg.svg) no-repeat;
+/*   background: url(https://hexschool.github.io/Rwd_sketch_export/assets/logo_l@svg.svg) no-repeat; */
   width: 120px;
   height: 24px;
   overflow: hidden;
