@@ -119,8 +119,9 @@ a {
   text-align: center;
 }
 
-h1 {
+.rgb {
 /*   background: url(https://hexschool.github.io/Rwd_sketch_export/assets/logo_l@svg.svg) no-repeat; */
+  color: red;
   width: 120px;
   height: 24px;
   overflow: hidden;
