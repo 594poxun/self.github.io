@@ -120,8 +120,9 @@ a {
   text-align: center;
 }
 
-h1 {
+.h111 {
   color: red;
+  font-size: 200%;
 }
 
 h1 {
