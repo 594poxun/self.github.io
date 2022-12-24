@@ -120,11 +120,11 @@ a {
   text-align: center;
 }
 
-.title{
+h1 {
   color: red;
 }
 
-.rgb {
+h1 {
 /*   background: url(https://hexschool.github.io/Rwd_sketch_export/assets/logo_l@svg.svg) no-repeat; */
   color: red;
   width: 120px;
