@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -119,20 +119,14 @@ a {
   text-align: center;
 }
 
-.d1 {
-    width: 400px;
-    height: 200px;
-    background-color: blue;
-    color: white;
-}
-
 h1 {
 /*   background: url(https://hexschool.github.io/Rwd_sketch_export/assets/logo_l@svg.svg) no-repeat; */
   color: red;
-  width: 120px;
+  font-size: 50%;
+/*  width: 120px;
   height: 24px;
   overflow: hidden;
   text-indent: 101%;
-  white-space: nowrap;
+  white-space: nowrap;*/
 }
 /*# sourceMappingURL=all.css.map */
